@@ -1,0 +1,41 @@
+short: cargo-vet
+title: cargo-vet ガイド
+original_title: cargo-vet book
+seo_title: cargo-vet ガイド（Mozilla「cargo-vet」公式ドキュメント日本語訳）
+summary: Rust の依存クレートが信頼できる主体によって監査されているかを確かめるサプライチェーンセキュリティのツール「cargo-vet」（Mozilla）の公式ガイドの、非公式な日本語訳。導入、監査の記録と共有、設定、コマンド、アルゴリズムを全文訳している。
+author: Mozilla と cargo-vet の貢献者
+source: https://github.com/mozilla/cargo-vet
+license: MIT または Apache-2.0
+license_url: https://github.com/mozilla/cargo-vet/blob/main/LICENSE-MIT
+version: 2026-11-18 時点（コミット a9bde85）
+disclaimer: Mozilla・RustSec・Rust Project・Rust Foundation とは提携していません。
+home_toc: true
+nav:
+  - {file: tutorial.html, title: チュートリアル}
+  - {file: reference.html, title: リファレンス}
+  - {file: commands.html, title: コマンド}
+chapters:
+  - {file: motivation.html, title: 動機}
+  - {file: how-it-works.html, title: 仕組み}
+  - {file: tutorial.html, title: チュートリアル}
+  - {file: install.html, title: インストール}
+  - {file: setup.html, title: セットアップ}
+  - {file: audit-criteria.html, title: 監査基準}
+  - {file: importing-audits.html, title: 監査のインポート}
+  - {file: recording-audits.html, title: 監査の記録}
+  - {file: performing-audits.html, title: 監査の実施}
+  - {file: trusting-publishers.html, title: 公開者を信頼する}
+  - {file: specifying-policies.html, title: ポリシーの指定}
+  - {file: multiple-repositories.html, title: 複数のリポジトリ}
+  - {file: configuring-ci.html, title: CI の設定}
+  - {file: curating-your-audit-set.html, title: 監査の集まりを整える}
+  - {file: reference.html, title: リファレンス}
+  - {file: config.html, title: 設定}
+  - {file: audit-entries.html, title: 監査エントリ}
+  - {file: wildcard-audit-entries.html, title: ワイルドカード監査エントリ}
+  - {file: trusted-entries.html, title: 信頼エントリ}
+  - {file: built-in-criteria.html, title: 組み込みの基準}
+  - {file: first-party-code.html, title: ファーストパーティのコード}
+  - {file: faq.html, title: よくある質問}
+  - {file: commands.html, title: コマンド}
+  - {file: algorithm.html, title: アルゴリズム}
