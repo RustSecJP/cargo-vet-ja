@@ -8,6 +8,7 @@ source: https://github.com/mozilla/cargo-vet
 license: MIT または Apache-2.0
 license_url: https://github.com/mozilla/cargo-vet/blob/main/LICENSE-MIT
 version: 2026-11-18 時点（コミット a9bde85）
+translated: 2026-11-20
 disclaimer: Mozilla・RustSec・Rust Project・Rust Foundation とは提携していません。
 home_toc: true
 nav:

@@ -12,6 +12,15 @@
 
 詳しくは[ガイド](https://rustsecjp.github.io/cargo-vet-ja/)を見てください（原文: [book](https://mozilla.github.io/cargo-vet/)）。
 
+## 訳した版
+
+| | |
+|---|---|
+| 原文の版 | 2026-11-18 時点（コミット [`a9bde85`](https://github.com/mozilla/cargo-vet/commit/a9bde85910409be3d2d61e6f6ff6ba7a521f0412)） |
+| 翻訳日 | 2026-11-20 |
+
+原文がこの版より後に更新されている場合、訳は古い内容のままです。
+
 ## ライセンス
 
 次のどちらかを選んで利用できます。
