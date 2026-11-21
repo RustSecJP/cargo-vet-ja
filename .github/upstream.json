@@ -1,0 +1,1 @@
+{n  "upstreams": [n    {n      "repo": "mozilla/cargo-vet",n      "branch": "main",n      "paths": [n        "book/src",n        "README.md"n      ],n      "base": "a9bde85910409be3d2d61e6f6ff6ba7a521f0412"n    }n  ]n}
